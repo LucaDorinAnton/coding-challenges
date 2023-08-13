@@ -1,0 +1,1 @@
+/home/lucad/coding-challenges/leetcode/easy/perfect-square-367/target/debug/perfect-square-367: /home/lucad/coding-challenges/leetcode/easy/perfect-square-367/src/lib.rs /home/lucad/coding-challenges/leetcode/easy/perfect-square-367/src/main.rs
